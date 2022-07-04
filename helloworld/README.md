@@ -1,3 +1,4 @@
+# This basic JNI example calls c from java to print hello world.
 This example differs only slightly from https://www.baeldung.com/jni. It adds a makefile and uses c instead of c++.
 
 ### Dependencies
