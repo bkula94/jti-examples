@@ -6,6 +6,10 @@ This example differs only slightly from https://www.baeldung.com/jni. It adds a 
 
 ### To run
 cd into the directory make the executable with
-    make
+```
+make
+```
 run with
-    java HelloWorldJNI
+```
+java HelloWorldJNI
+```
