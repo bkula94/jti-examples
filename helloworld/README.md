@@ -5,5 +5,7 @@ This example differs only slightly from https://www.baeldung.com/jni. It adds a 
 * gcc is on path, this could be replaced with g++ in the makefile
 
 ### To run
-cd into the directory make the executable with `make`
-Next run `java HelloWorldJNI`
+cd into the directory make the executable with
+    make
+run with
+    java HelloWorldJNI
