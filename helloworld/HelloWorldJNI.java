@@ -8,7 +8,5 @@ public class HelloWorldJNI {
         new HelloWorldJNI().sayHello();
     }
 
-    // Declare a native method sayHello() that receives no arguments and returns
-    // void
     private native void sayHello();
 }
